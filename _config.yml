@@ -1,14 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Sadly, this aint HTML
+author: Robinson Crusoe
+email: Robinson_Crusoe@CrusoeCorp.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I was hoping that I can use html tags, but interestingly enough, I can only use Github markdown.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: Robinson_Crusoe
+github_username:  Robinson_Crusoe
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
